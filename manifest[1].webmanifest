@@ -1,0 +1,13 @@
+{
+  "name": "Maison Studio",
+  "short_name": "Maison Studio",
+  "description": "Imaginez et personnalisez votre intérieur avec Maison Studio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffefa",
+  "theme_color": "#203c2d",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
